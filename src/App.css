@@ -1,0 +1,24 @@
+.sign-in{
+    background-color: #008CBA;
+    font-size: 20px;
+    padding: 14px 40px;
+    border-radius: 12px;
+    border: 2px solid #4CAF50;
+    color: white;
+    
+}
+.sign-out{
+    background-color: #008CBA;
+    font-size: 20px;
+    padding: 14px 40px;
+    border-radius: 12px;
+    border: 2px solid #4CAF50;
+    color: white;
+}
+.sign-in:hover{
+    cursor:pointer;
+}
+
+.sign-out:hover{
+    cursor: pointer;
+}
